@@ -1,0 +1,4 @@
+Step 1- creating a  fork
+Step 2 - commit
+Step 3 -  create a pull request
+Step 4 -merge the request
